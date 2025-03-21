@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 💬 Ask me about Data Science, Deep Learning, Python, or how to convince your ML model that overfitting is bad.
 
 📫 How to reach me:  
-- 📧 [Email](mailto:rohitloharkar007@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rohitloharkar/)
 - 🐦 [Twitter](https://x.com/iRohit21)
 
